@@ -4,7 +4,7 @@ from pypresence import Presence
 import time
 import threading
 
-DISCORD_CLIENT_ID = "1379963718716231721"
+DISCORD_CLIENT_ID = "" // Pon aqui tu id de discord
 
 RADIO_URL = "https://radio.gotanno.love/"
 
